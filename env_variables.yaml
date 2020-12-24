@@ -1,8 +1,0 @@
-env_variables:
-    TRAIL_DB_URI: 'mongodb+srv://trail-admin:BP21GJMCJQjqode9@cluster0.rmqzf.gcp.mongodb.net/trail?retryWrites=true&w=majority'
-    TRAIL_DB_NAME: 'trail'
-    TRAIL_JWT_PRIVATE_KEY: 'Trail-jwtPrivateKey'
-    TRAIL_SENDGRID_API_KEY: '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'
-    TRAIL_SENDGRID_VERIFY_EMAIL_TEMPLATE_ID: 'd-23cbffa658c048fbaca4218f1a464021'
-    TRAIL_FE_HOST_DOMAIN: 'https://trailsmekohackathon.web.app'
-    TRAIL_PAYSTACK_SECRET_KEY: 'sk_test_345fdc2ce6f3e33456287d5ad5bb2dbf2cc504fc'
