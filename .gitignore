@@ -4,6 +4,8 @@
 /node_modules
 
 # misc
-.env
-./env_variables.yaml
+/*.env
+/*.yaml
+/*.log
+
 
