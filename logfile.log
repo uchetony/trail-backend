@@ -1,0 +1,360 @@
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T08:23:46.301Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:27:50.987Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:27:51.494Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:27:55.870Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:27:55.918Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:29:28.117Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:29:28.167Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:30:38.154Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:30:38.181Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:31:44.168Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:31:44.199Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:31:46.234Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:31:46.265Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:34:06.884Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:34:06.938Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:35:03.376Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:35:03.408Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:37:35.095Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:37:35.123Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:40:18.722Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:40:18.804Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:41:41.994Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:41:42.026Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:43:31.142Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:43:31.170Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:44:23.216Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:44:23.250Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:48:07.617Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:48:07.684Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:50:05.189Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:50:05.216Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T10:54:34.550Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T10:54:34.628Z"}
+error: Cannot read property 'password' of null Cannot read property 'password' of null {"service":"user-service","stack":"TypeError: Cannot read property 'password' of null\n    at endpoint.post (/home/anthony/Desktop/TRAIL/trail-backend/endpoints/stakeholders/index.js:16:58)","timestamp":"2020-09-04T11:02:05.482Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:04:58.034Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:04:58.068Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:07:38.309Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:08:08.982Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:08:25.706Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:08:25.757Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:12:18.526Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:12:18.567Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:12:18.663Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:13:49.271Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:13:49.350Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:13:49.367Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:13:57.204Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:13:57.278Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:14:31.022Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:14:31.061Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:14:31.127Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:16:50.926Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:16:51.000Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:18:09.459Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:18:09.512Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:18:09.531Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:18:12.608Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:18:12.643Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:18:12.713Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:20:55.368Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:20:55.414Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:26:08.803Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:26:08.879Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:26:08.883Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:26:26.016Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:26:26.065Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:26:26.098Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:26:49.387Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:26:49.449Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:26:49.460Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:27:25.667Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:27:25.714Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:27:56.451Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:27:56.505Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:28:52.452Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:28:52.505Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:28:52.560Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:28:57.476Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:28:57.523Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:29:13.410Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:29:13.458Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:32:57.665Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:32:57.701Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:32:57.859Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:33:01.973Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:33:02.022Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:34:30.253Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:34:30.306Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:34:30.320Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:34:35.072Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:34:35.118Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T11:36:53.735Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T11:36:53.778Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T13:20:13.020Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T13:20:13.178Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T13:20:13.131Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T13:21:04.551Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T13:21:04.587Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T13:21:04.623Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T13:21:14.809Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T13:21:14.853Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T13:25:10.055Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T13:25:10.106Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T13:26:15.267Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T13:26:15.325Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T13:27:03.192Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T13:27:03.245Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T13:27:03.350Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T13:27:10.068Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T13:27:10.120Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:03:43.810Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:03:44.720Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:03:44.721Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:03:51.095Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:03:51.131Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:03:51.172Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:04:02.544Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:04:02.583Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:04:02.593Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:04:12.684Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:04:12.719Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:04:12.772Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:04:22.392Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:04:22.424Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:04:27.728Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:04:27.762Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:04:27.798Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:04:53.678Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:04:53.721Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:05:08.449Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:05:08.493Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:05:08.517Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:05:17.124Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:05:17.176Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:05:17.183Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:07:19.239Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:07:19.272Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:07:58.725Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:07:58.763Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:08:19.713Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:08:19.765Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:08:19.784Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:08:35.107Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:08:35.164Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:08:35.198Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:08:43.892Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:08:43.929Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:09:06.690Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:09:06.727Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:09:07.184Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:09:10.901Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:09:10.948Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:09:10.962Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:09:12.635Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:09:12.687Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:09:12.698Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:09:16.981Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:09:17.025Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:09:17.035Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:09:20.595Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:09:20.638Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:09:20.655Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:09:22.398Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:09:22.430Z"}
+error: name argument is required to req.get name argument is required to req.get {"service":"user-service","stack":"TypeError: name argument is required to req.get\n    at IncomingMessage.header (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/express/lib/request.js:67:11)\n    at auth (/home/anthony/Desktop/TRAIL/trail-backend/middlewares/authorisation/index.js:6:21)\n    at newFn (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/express/lib/router/layer.js:95:5)\n    at /home/anthony/Desktop/TRAIL/trail-backend/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/express/lib/router/index.js:317:13)","timestamp":"2020-09-04T14:09:25.718Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:10:02.776Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:10:02.815Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:10:02.839Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:10:08.471Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:10:08.505Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:10:20.459Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:10:20.505Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:10:20.513Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:10:31.470Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:10:31.517Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:14:16.575Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:14:16.606Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:18:13.580Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:18:13.612Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:18:13.783Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:18:22.549Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:18:22.593Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:18:22.599Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:18:31.101Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:18:31.135Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:37:59.723Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:37:59.746Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:40:08.135Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:40:08.288Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:40:08.298Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:40:27.952Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:40:28.009Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:40:28.014Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:40:32.445Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:40:32.483Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:40:32.506Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:40:34.585Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:40:34.635Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:40:34.640Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:40:35.870Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:40:35.916Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:40:35.920Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T14:40:37.238Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T14:40:37.277Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:03:14.357Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:03:15.074Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:03:41.106Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:03:41.162Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:03:41.168Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:03:44.520Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:03:44.572Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:08:06.804Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:08:06.841Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:08:31.099Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:08:31.169Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:08:31.191Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:08:37.137Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:08:37.170Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:10:50.738Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:10:50.784Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:11:23.796Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:11:23.866Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:11:23.868Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:11:29.713Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:11:29.748Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:11:42.339Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:11:42.376Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:11:42.675Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:11:44.088Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:11:44.133Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:11:44.138Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:11:46.253Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:11:46.299Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:19:05.902Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:19:05.953Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:19:22.018Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:19:22.070Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:19:22.075Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:19:24.748Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:19:24.791Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:20:55.053Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:20:55.106Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:20:55.108Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:20:57.619Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:20:57.665Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:20:57.669Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:20:59.619Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:20:59.659Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:21:17.649Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:21:17.684Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:21:17.715Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:21:21.044Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:21:21.096Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:21:21.098Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:21:23.477Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:21:23.520Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:22:14.431Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:22:14.466Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:22:14.492Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:22:16.551Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:22:16.598Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:22:16.602Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:22:18.189Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:22:18.232Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:27:57.010Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:27:57.051Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:32:35.613Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:32:35.678Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:32:35.679Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:32:37.720Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:32:37.863Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:32:37.864Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:32:39.872Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:32:39.915Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:35:01.666Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:35:01.715Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:35:01.720Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:35:04.124Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:35:04.163Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:35:27.034Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:35:27.076Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:35:27.101Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:35:30.643Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:35:30.690Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:35:30.700Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:35:33.313Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:35:33.363Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:35:33.377Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:35:34.706Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:35:34.748Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:35:34.776Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:35:36.077Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:35:36.121Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:36:47.132Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:36:47.175Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:36:47.187Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:36:48.642Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:36:48.687Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:36:48.705Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:36:50.236Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:36:50.283Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:36:50.303Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:36:51.691Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:36:51.740Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:36:51.741Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:36:53.151Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:36:53.198Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:36:53.198Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:36:54.672Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:36:54.722Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:36:54.736Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:36:57.786Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:36:57.826Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:37:44.139Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:37:44.197Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:37:44.202Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:37:47.100Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:37:47.147Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:37:47.156Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T15:37:48.955Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T15:37:48.992Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T16:35:21.404Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T16:35:21.499Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T16:35:21.492Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T16:35:24.768Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T16:35:24.841Z"}
+error: Cannot do inclusion on field billingDetails.disco in exclusion projection Cannot do inclusion on field billingDetails.disco in exclusion projection {"service":"user-service","ok":0,"code":31253,"codeName":"Location31253","name":"MongoError","stack":"MongoError: Cannot do inclusion on field billingDetails.disco in exclusion projection\n    at MessageStream.messageHandler (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/mongodb/lib/cmap/connection.js:266:20)\n    at MessageStream.emit (events.js:198:13)\n    at processIncomingData (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/mongodb/lib/cmap/message_stream.js:144:12)\n    at MessageStream._write (/home/anthony/Desktop/TRAIL/trail-backend/node_modules/mongodb/lib/cmap/message_stream.js:42:5)\n    at doWrite (_stream_writable.js:415:12)\n    at writeOrBuffer (_stream_writable.js:399:5)\n    at MessageStream.Writable.write (_stream_writable.js:299:11)\n    at Socket.ondata (_stream_readable.js:709:20)\n    at Socket.emit (events.js:198:13)\n    at addChunk (_stream_readable.js:288:12)\n    at readableAddChunk (_stream_readable.js:269:11)\n    at Socket.Readable.push (_stream_readable.js:224:10)\n    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)","timestamp":"2020-09-04T16:35:28.525Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T16:35:48.005Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T16:35:48.093Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-04T19:22:56.035Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-04T19:22:56.154Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-08T09:33:02.158Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-08T09:34:43.556Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-08T09:34:43.588Z"}
+info: Verification email sent to uchetony007@gmail.com {"service":"user-service","timestamp":"2020-09-08T09:51:38.233Z"}
+info: Verification email sent to uchetony007@yahoo.com {"service":"user-service","timestamp":"2020-09-08T10:11:28.402Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-08T11:22:25.013Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-08T11:22:25.061Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-08T11:24:12.011Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-08T11:24:16.687Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-08T11:24:30.100Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-08T11:24:35.118Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-08T11:30:54.043Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-08T11:30:54.083Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-08T11:31:10.790Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-08T11:31:10.820Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-09-08T11:36:05.175Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-09-08T11:36:05.215Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-10-15T20:13:41.590Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-10-15T20:14:08.661Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-10-15T20:14:08.697Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-10-15T21:54:01.816Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-10-15T22:41:44.562Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-10-15T22:46:05.215Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-10-15T22:46:05.252Z"}
+info: Verification email sent to uchetony007@gmail.com {"service":"user-service","timestamp":"2020-10-15T23:33:48.026Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-10-16T02:23:06.173Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-10-16T02:23:11.040Z"}
+info: server started on port: 5000 {"service":"user-service","timestamp":"2020-10-16T02:24:46.412Z"}
+info: connected to trail database {"service":"user-service","timestamp":"2020-10-16T02:24:46.449Z"}
